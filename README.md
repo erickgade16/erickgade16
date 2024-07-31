@@ -1,5 +1,5 @@
 ### Olá, eu sou o Erick Gadelha!
-- 📚 Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na FMU
+- 📚 Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na Uninove
 - 🚀 Sou um desenvolvedor .Net Jr
 ### Skills
 <div>
